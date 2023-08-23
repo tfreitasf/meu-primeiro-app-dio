@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFirstAppDio</string>
+    <string name="txt_hello_world">Hello world!!</string>
+    <string-array name="language_options">
+        <item>English</item>
+        <item>Português</item>
+        <item>Español</item>
+    </string-array>
+</resources>
