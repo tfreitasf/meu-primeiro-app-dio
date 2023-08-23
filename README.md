@@ -25,3 +25,5 @@ Cada botão de bandeira é associado a uma ação específica ao ser clicado:
 - Ao clicar no botão da bandeira espanhola, a função `setLocale` é chamada com o argumento `"es"` (espanhol).
 
 Isso resulta na troca de idioma do aplicativo.
+
+![MeuPrimeiroAppDio](https://github.com/tfreitasf/meu-primeiro-app-dio/assets/83042767/55be1b26-36dc-4978-85d7-669632df1cd9)
